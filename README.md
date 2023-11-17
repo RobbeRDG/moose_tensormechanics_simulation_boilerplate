@@ -1,6 +1,4 @@
-moose_tensormechanics_simulation_boilerplate
+MOOSE Tensormechanics Simulation Boilerplate
 =====
 
-"Fork moose_tensormechanics_simulation_boilerplate" to create a new MOOSE-based application.
-
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
+MOOSE boilerplate project code for executing tensor simulations
