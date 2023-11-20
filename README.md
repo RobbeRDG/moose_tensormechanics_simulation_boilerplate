@@ -1,4 +1,4 @@
 MOOSE Tensormechanics Simulation Boilerplate
 =====
 
-MOOSE boilerplate project code for executing tensor simulations
+Boilerplate app code for executing tensor simulations using MOOSE
